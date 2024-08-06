@@ -61,7 +61,8 @@
 
 .archive-img {
     width: 580px;
-    margin: auto;
+    /* margin: auto; */
+    margin-left: 30px;
     text-align: left;
     height: 145px;
 }
@@ -75,7 +76,8 @@
 .archive-link {
     width: 525px;
     text-align: left;
-    margin: auto;
+    /* margin: auto; */
+    margin-left: 40px;
 }
 
 .archive-desc {
@@ -149,6 +151,7 @@
     .archive-img img {
         width: 200px;
         height: 100px;
+        
     }
 
     .archive-desc, .archive-list {
@@ -162,6 +165,7 @@
 
 @media (max-width: 992px) {
     .archiving-container {
+       
         padding: 20px;
         height: 1200px;
     }
@@ -171,11 +175,13 @@
     }
 
     .archive-card {
-        width: 95%;
+        width: 95%
     }
 
     .archive-img img {
-        width: 180px;
+       
+        margin-left: 15px;
+        width: 190px;
         height: 90px;
     }
 
