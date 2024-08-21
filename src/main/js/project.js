@@ -81,7 +81,7 @@ const Project = forwardRef((props, ref) => {
                         <p>깃허브 소스 코드 : </p>
                         <a className='address' href='https://github.com/KimJaeHwan98/ForWebPrjBs' >https://github.com/KimJaeHwan98/ForWebPrjBs</a>
                         <p>ppt : </p>
-                        <a className='address' href='https://docs.google.com/presentation/d/1FhtH7zdxHCUmf0rAK6oeOYmYHFsV6ROCL8g23di3FOE/edit#slide=id.g2ef1808f267_1_174' >ppt url</a>
+                        <a className='address' href='https://docs.google.com/presentation/d/1DH-wyO7GO0IOc7k2odRbZTQlz5ij2tM5bY-kyGqFRc0/edit#slide=id.p' >ppt url</a>
                     </div>
                 </div>
                 <div className="project-card">
